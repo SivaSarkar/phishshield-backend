@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+*.pkl
+*.onnx
+data/raw/
+models/*.pkl
+models/*.onnx
